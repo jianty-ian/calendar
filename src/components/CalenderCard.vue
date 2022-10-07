@@ -68,7 +68,7 @@ export default {
     },
     mounted(){
         this.setToday()
-        document.title = '南監三班班表'
+        document.title = '【南監三班班表】'
     },
     methods:{
         setToday(){
